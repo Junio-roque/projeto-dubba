@@ -10,3 +10,11 @@ h5{
 p{
     text-align: center;
 }
+
+.menu a{
+color: aliceblue;
+display: inline-block;
+text-decoration: none;
+font-size: 15px;
+margin-left: 15px;
+}
